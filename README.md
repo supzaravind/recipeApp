@@ -1,2 +1,2 @@
 # recipeApp
-A simple Recipe application using React
+A simple React application that shows all the recipes.
